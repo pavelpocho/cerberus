@@ -1,0 +1,1 @@
+// HAS TO BE DEFINED IN cerberus_worker.js because of broken worker imports
